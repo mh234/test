@@ -36,11 +36,6 @@
 # print(g)
 
 
-a = int(input("Enter any numbers"))
-b = a + 1 
-a = b
-a.sort()
-print(a)
 
 
 
