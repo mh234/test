@@ -18,12 +18,11 @@
 #     print("Polindrom")
 # else:
 #     print("not polindrom")
-
 # n = int(input("Enter number"))
 # for a in range(1,n):
 #     b = n + 1
 #     n = b 
-#     print(b)
+# print(b)
 
 
 # a = int(input("First number"))
@@ -35,8 +34,18 @@
 # g.sort()
 # print(g)
 
+# input_list = [1, 2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 2, 3, 4, 4, 5,6,7,8,9]
+# unique_elements = set(input_list)
+# print(unique_elements)
 
 
+# A = input("Enter your password")
+# if A == "password123":
+#     pass
+# else:
+#     print("Error")
 
-
-
+# A = input("Give me numbers")
+# print(max(A))
+A = input("reshite primer 50 + 50")
+d = 50 + 50
