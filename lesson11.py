@@ -47,5 +47,5 @@
 
 # A = input("Give me numbers")
 # print(max(A))
-A = input("reshite primer 50 + 50")
-d = 50 + 50
+
+
